@@ -1,0 +1,7 @@
+PyMuPDF
+Pillow
+openai
+fastapi
+uvicorn
+python-multipart
+numpy
